@@ -12,7 +12,7 @@
 #include "sev.h"
 #include "agenda.h"
 
-#define DEBUGagenda 0   // Bandera per fer seguiment de l'agenda 
+#define DEBUGagenda 1   // Bandera per fer seguiment de l'agenda 
 
 //static esdev *agenda;
 static int n_esd;

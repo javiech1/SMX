@@ -1,3 +1,4 @@
+
 /*
  * Programa exemple del funcionament d'una simulacio orientada en events
  * basada en el codi donat en el llibre Jorba, Capitol 2

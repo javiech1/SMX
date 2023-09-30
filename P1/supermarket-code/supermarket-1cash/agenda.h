@@ -12,7 +12,7 @@
 #define	AGENDA_H
 
 // Declaracion per l'agenda d'events
-#define N           10   // Nombre maxim d'events pendents d'executar
+#define N           10  // Nombre maxim d'events pendents d'executar
 
 typedef struct {
     float quan;
