@@ -16,7 +16,7 @@ typedef struct{
     float tar; // temps d'arribada a la cua
 }el_cua; 
 
-#define CUA_MAX 10  // nombre maxim elements a la cua
+#define CUA_MAX 20  // nombre maxim elements a la cua
 
 el_cua crea_element_cua(float tar);
 void crea_cua(int max);

@@ -19,10 +19,10 @@
 #define SORTIDA    'S'
 #define TANCAR     'T'
 
-#define ARRIVAL    15     // Temps mig entre arribades 
-#define SERVICE    60     // Temps mig de servei
+#define ARRIVAL    40   // Temps mig entre arribades 
+#define SERVICE    90     // Temps mig de servei
 
-#define RANSEED    56721  // 541324
+#define RANSEED    23423  // 541324
 // Valor de la llavor inicial del generador aleatori 56721
 #define OBRIRTIME  0       // Temps d'inici d'obertura
 #define TANCARTIME 100     // Temps de finalització
